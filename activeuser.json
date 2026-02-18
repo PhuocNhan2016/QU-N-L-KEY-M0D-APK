@@ -3,8 +3,8 @@
         "device_id": "eecdf3a2f300e57c",
         "username": "NKN",
         "password": "NKN123",
-        "expirydate": "18-2-2026",
-        "Allowoffline": true
+        "expirydate": "18-2-2025",
+        "Allowoffline": false
     },
     {
         "device_id": "eecdf3a2f300e57c",
