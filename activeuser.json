@@ -4,7 +4,7 @@
         "username": "NKN",
         "password": "NKN123",
         "expirydate": "18-2-2026",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "eecdf3a2f300e57c",
